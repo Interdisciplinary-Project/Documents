@@ -24,11 +24,26 @@ se vai parar de participar das atividades do grupo e entre outros.
 
 # Requisitos Não Funcionais
 
+  ° Paleta de cores
+  ° Imagens
+  ° Desempenho
+  ° Usabilidade
+  ° Segurança
+  ° Escalabilidade
+  ° Eficiência
+
 # Requisitos Funcionais
+
+° Links de Navegação
+° Cadastro e Login
+° Formulário
+° Integração com Redes Sociais
+° Gerenciamento de Conteúdo
+° Acessibilidade/Usabilidade
 
 # Regras de Negócio
 
-# Projeto Integrador
+°
 
 ## Sumário
 
