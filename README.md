@@ -125,7 +125,8 @@ o problema persistir, entre em contato com o líder do projeto.
 
 1. Inicialmente se faz necessário instalar uma extensão chamada `ESLint`. Para isso, procurem a aba de extensões (ou usem o atalho `ctrl+x`). Daí, pesquisem por `ESLint` e irá aparecer a extensão abaixo. Instale-a e vá para o próximo passo.
 
-![Imagem da extensão ESLint](./docs/eslint/eslint-extension.png)
+![image](https://github.com/user-attachments/assets/29d0aa7f-4c0e-42f3-95e6-b839c2a52086)
+
 
 <a id="eslint-configuration"></a>
 
@@ -133,12 +134,14 @@ o problema persistir, entre em contato com o líder do projeto.
 
 1. Agora, com a extensão já instalada, você deve abrir o JSON de configurações do VSCode. Para isso, use o atalho `ctrl+shift+p`. Irá aparecer a seguinte barra de pesquisa:
 
-![Paleta de comandos do VSCode](./docs/eslint/command-pallete.png)
+![image](https://github.com/user-attachments/assets/e3b55b90-774b-4996-bf81-f299aef784ce)
+
 
 2. Agora, pesquise `Preferences: Open User Settings (JSON)` e tecle `Enter`.
 3. Dentro do par de {} que irá ter neste arquivo (caso ele não tenha nenhuma configuração previamente preenchida), insira os comandos abaixo
 
-![Comandos de configuração do ESLint](./docs/eslint/eslint-configurations.png)
+![image](https://github.com/user-attachments/assets/8d324304-e8ff-4af4-a1d5-9c7806e8bece)
+
 
 <a id="deploy"></a>
 
@@ -168,13 +171,13 @@ Quando se trabalha em um repostiório de código compartilhado utilizando Git, e
         git push origin ESCREVA_AQUI_O_NOME_DA_SUA_BRANCH
       ```
   - Vá até o seu GitHub, no repositório Frontend, e clique no botão verde de `Compare & Pull Request`.
-    ![Imagem de exemplo do botão de Pull Request](./docs/good-practices/pr-first-step.png)
+    ![image](https://github.com/user-attachments/assets/9b05956b-95db-4415-abaf-c26ba14aee51)
   - Confira se a sua branch está na direita e na esquerda está a branch main
-    ![Imagem de exemplo para o segundo passo do PR](./docs/good-practices/pr-second-step.png)
+  - ![image](https://github.com/user-attachments/assets/7932559e-c057-4c96-8ddb-b67a07edf335)
   - Clique no botão de `Create Pull Request`
-    ![Imagem de exemplo para o terceiro passo do PR](./docs/good-practices/pr-third-step.png)
+  - ![image](https://github.com/user-attachments/assets/43340389-3de9-481b-a979-e7b0619f09bd)
   - Ao fim, você chegará nesta tela. Não faça mais nada e avise alguém para revisar o código (pelo WhatsApp mesmo) e fazer o merge do seu código com a branch principal
-    ![Imagem de exemplo para o passo final do PR](./docs/good-practices/pr-final-step.png)
+    ![image](https://github.com/user-attachments/assets/4d4ec816-2ca8-4eb2-a2e0-1a980c7930b1)
 2. Sempre que finalizar uma tarefa e for iniciar a próxima tarefa garanta que a sua branch main esteja atualizada e jamais crie novas branchs de desenvolvimento a partir de qualquer outra branch que não seja a main. Assim, após a criação do seu `Pull Request`, execute os seguintes passos:
     ```bash
       git switch main
