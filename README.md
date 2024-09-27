@@ -25,27 +25,33 @@ se vai parar de participar das atividades do grupo e entre outros.
 # Requisitos Não Funcionais
 
 <ul>
-  <li>° Paleta de cores</li>
-  <li>° Imagens</li>
-  <li>° Desempenho</li>
-  <li>° Usabilidade</li>
-  <li>° Segurança</li>
-  <li>° Escalabilidade</li>
-  <li>° Eficiência</li>
+  <li>Paleta de cores</li>
+  <li>Imagens</li>
+  <li>Desempenho</li>
+  <li>Usabilidade</li>
+  <li>Segurança</li>
+  <li>Escalabilidade</li>
+  <li>Eficiência</li>
 </ul>
 
 # Requisitos Funcionais
 
-° Links de Navegação
-° Cadastro e Login
-° Formulário
-° Integração com Redes Sociais
-° Gerenciamento de Conteúdo
-° Acessibilidade/Usabilidade
+<ul>
+  <li>Links de Navegação</li>
+  <li>Cadastro e Login</li>
+  <li>Formulário</li>
+  <li>Integração com Redes Sociais</li>
+  <li>Gerenciamento de Conteúdo</li>
+  <li>Acessibilidade/Usabilidade</li>
+</ul>
 
 # Regras de Negócio
 
-°
+<ul>
+  <li>LGPD</li>
+  <li>Direitos de Imagens</li>
+  <li>ECA</li>
+</ul>
 
 ## Sumário
 
