@@ -24,13 +24,15 @@ se vai parar de participar das atividades do grupo e entre outros.
 
 # Requisitos Não Funcionais
 
-  ° Paleta de cores
-  ° Imagens
-  ° Desempenho
-  ° Usabilidade
-  ° Segurança
-  ° Escalabilidade
-  ° Eficiência
+<ul>
+  <li>° Paleta de cores</li>
+  <li>° Imagens</li>
+  <li>° Desempenho</li>
+  <li>° Usabilidade</li>
+  <li>° Segurança</li>
+  <li>° Escalabilidade</li>
+  <li>° Eficiência</li>
+</ul>
 
 # Requisitos Funcionais
 
