@@ -187,4 +187,3 @@ Quando se trabalha em um repostiório de código compartilhado utilizando Git, e
 3. Garanta que o seu código esteja funcionando antes de subir para o GitHub. Ou seja, teste o que você fez e garanta que não quebrou também o que já estava pronto anteriormente.
 
 
-
