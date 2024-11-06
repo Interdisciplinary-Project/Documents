@@ -22,13 +22,59 @@ se vai parar de participar das atividades do grupo e entre outros.
   O nosso projeto tem muito foco em acessibilidade, assim podendo facilitar o uso dos usuários que acabam tendo mais
   dificuldade com o uso da tecnologia, deixando bem prático e bem simplificado a utilização do nosso software.
 
+  # Objetivo
+
+  Atrair novos membros para o grupo de escoteiros tanto voluntarios como jovens que poderão fazer parte do grupo.Registro dos jovens,responsavei e voluntarios. E possivelmente atrair novas parcerias para o grupo.
+
 # Requisitos Não Funcionais
+
+<ul>
+  <li>Paleta de cores</li>
+  <li>Imagens</li>
+  <li>Desempenho</li>
+  <li>Usabilidade</li>
+  <li>Segurança</li>
+  <li>Escalabilidade</li>
+  <li>Eficiência</li>
+</ul>
 
 # Requisitos Funcionais
 
+<ul>
+  <li>Links de Navegação;</li>
+  <li>Formulário;</li>
+  <li>Integração com Redes Sociais;</li>
+  <li>Gerenciamento de Conteúdo;</li>
+  <li>Acessibilidade/Usabilidade;</li>
+  <li>Sistema é capaz de cadastrar Voluntários, jovens que participam do grupo de escoteiros e seus responsáveis;</li>
+  <li>Aqueles que já estão cadastrados no sistema, eles terão a opção de efetuar o login.</li>
+</ul>
+
 # Regras de Negócio
 
-# Projeto Integrador
+<ul>
+  <li>LGPD</li>
+  <li>Direitos de Imagens</li>
+  <li>ECA</li>
+</ul>
+
+# Wireframes - Alta Resolução (Desktop)
+
+![Page - Home](https://github.com/user-attachments/assets/bfebf8c6-53f3-4d28-9fff-065bf9f1767c)
+![Page - Administrative Panel](https://github.com/user-attachments/assets/c7dfd417-c249-431c-8cda-a4c86414166d)
+
+# Wireframes - Alta Resolução (Mobile)
+
+![Android Large - Home](https://github.com/user-attachments/assets/7ce89c3b-8488-4286-a740-756c46c18227)
+![Android Large - Login](https://github.com/user-attachments/assets/55cf72f2-3621-4e18-8360-1d44c43f4fb8)
+
+# Paleta de Cores
+
+![image](https://github.com/user-attachments/assets/1532f060-dccb-4aa9-a4a1-fb2da1451f25)
+
+# Quadro de Modelo de Negócios (Canvas)
+
+![image](https://github.com/user-attachments/assets/d9ad4e37-43c1-4ee2-ab60-96116b24c16c)
 
 ## Sumário
 
@@ -185,5 +231,7 @@ Quando se trabalha em um repostiório de código compartilhado utilizando Git, e
       # Aqui você pode criar sua nova branch de desenvolvimento normalmente e seguir trabalhando
     ```
 3. Garanta que o seu código esteja funcionando antes de subir para o GitHub. Ou seja, teste o que você fez e garanta que não quebrou também o que já estava pronto anteriormente.
+
+
 
 
