@@ -15,16 +15,35 @@ se vai parar de participar das atividades do grupo e entre outros.
   # Features
 
   O nosso projeto tem como foco um cadastro simples de se fazer, uma comunicação com os chefes do grupo de maneira mais
-  fácil e sem precisar falar com eles diretamente logo de cara, assim podendo tirar as maiorias das dúvidas dentro do
+  fácil e sem precisar falar com eles diretamente na sede do grupo, assim podendo tirar as maiorias das dúvidas dentro do
   nosso site e ter uma comunicação à distância sem precisar falar diretamente com os chefes do grupo para finalização
   de cadastro.
 
   O nosso projeto tem muito foco em acessibilidade, assim podendo facilitar o uso dos usuários que acabam tendo mais
   dificuldade com o uso da tecnologia, deixando bem prático e bem simplificado a utilização do nosso software.
 
-  # Objetivo
+  # Objetivo Principal
 
-  Atrair novos membros para o grupo de escoteiros tanto voluntarios como jovens que poderão fazer parte do grupo.Registro dos jovens,responsavei e voluntarios. E possivelmente atrair novas parcerias para o grupo.
+  Atrair novos membros para o grupo de escoteiros, tanto voluntários como jovens que poderão fazer parte do grupo. Registro dos jovens, responsáveis e voluntários. 
+  E possivelmente atrair novas parcerias para o grupo.
+
+  # Problema
+
+  Problema principal dos chefes do grupo foi a falta de comunicação dos pais em irem diretamente à eles sobre a mudança de endereço, mudança de número de telefone
+  e entre outros... por conta deste motivo, esse tipo de acontecimento acabam prejudicando a comunicação com os chefes do grupo, ou seja, caso ocorra algum acidente,
+  os chefes não terão o número dos pais e nem o endereço para contatarem o responsável da criança, então por conta disso acabam sofrendo um grande problema no dia a dia.
+
+  Problema secundário dos chefes é a falta de divulgação do grupo escoteiro. Muitos grupos dependentes da SAB tem um site como meio de divulgação das atividades de cada
+  grupo, então o grupo precisa de um site para divulgar as atividades do grupo.
+
+  # Solução
+
+  Nossa solução é fazer a criação de um site com o uso de fotos do grupo, redes sociais do grupo e todo meio de divulgação possível do grupo. Fora isso, nós vamos criar
+  toda a estrutura de suporte de dúvidas o possível para o usuário, e claro, sempre mantendo todo o foco possível em acessibilidade do site.
+  Uma outra solução muito importante que nós iremos fazer é com base na tela de admin, ou seja, teremos uma tela para os chefes que poderão ter o controle das pessoas
+  cadastradas dentro do sistema, assim podendo manter sempre atualizado com as informações que eles precisam para ter esse controle, e fora isso, eles poderão atualizar
+  os dados das pessoas cadastradas caso eles peçam ao grupo para ser feito esse tipo de coisa. E como nosso site terá cadastro e login, o próprio usuário poderá fazer
+  essas atualizações de informações pessoais, assim também ajudando o grupo e fazer isso de forma mais simplificada, ou seja, apenas com o celular sem precisar sair de casa.
 
 # Requisitos Não Funcionais
 
@@ -36,6 +55,7 @@ se vai parar de participar das atividades do grupo e entre outros.
   <li>Segurança</li>
   <li>Escalabilidade</li>
   <li>Eficiência</li>
+  <li>Responsividade</li>
 </ul>
 
 # Requisitos Funcionais
@@ -56,6 +76,17 @@ se vai parar de participar das atividades do grupo e entre outros.
   <li>LGPD</li>
   <li>Direitos de Imagens</li>
   <li>ECA</li>
+</ul>
+
+# Tecnologias Aplicadas
+
+<ul>
+  <li>React - Uma biblioteca de JavaScript que serve para criar interfaces de usuários para aplicativos web e móveis.</li>
+  <li>
+    Firebase - Um serviço de Back-End pronto que fornece diversos tipos de ferramentas, entre elas estão: Authentication,
+    Firestore e Hosting. 
+  </li>
+  <li>GitHub - Uma plataforma de desenvolvedor colaborativa que serve para armazenar, compartilhar e gerenciar projetos.</li>
 </ul>
 
 # Wireframes - Alta Resolução (Desktop)
